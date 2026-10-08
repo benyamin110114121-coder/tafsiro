@@ -1,0 +1,14 @@
+{
+  "name": "tafsiro",
+  "short_name": "tfsiro",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "lang": "fa",
+  "dir": "rtl",
+"icons": [
+  { "src": "/icon.png", "sizes": "360x360", "type": "image/png", "purpose": "any maskable" }
+]
+}
