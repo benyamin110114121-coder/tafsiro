@@ -1,14 +1,11 @@
 {
-  "name": "tafsiro",
-  "short_name": "tfsiro",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0d6efd",
-  "lang": "fa",
-  "dir": "rtl",
-"icons": [
-  { "src": "/icon.png", "sizes": "360x360", "type": "image/png", "purpose": "any maskable" }
-]
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "tafsiro.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tafsiro.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff"
 }
